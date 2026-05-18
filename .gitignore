@@ -1,0 +1,9 @@
+venv/
+Model/
+settings.json
+Translations/
+splash_debug.log
+app_error.log
+server.log
+__pycache__/
+*.pyc
